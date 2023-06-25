@@ -1,8 +1,12 @@
-# ✍️ Scientific Writing and Research Methods Repository
+# ✍️ Repositório de Escrita Científica e Métodos de Investigação
 
-Welcome to the Scientific Writing and Research Methods Repository! 🔬 
+Bem-vindo ao Repositório de Escrita Científica e Métodos de Investigação! 🔬 
 
-This repository is a curated collection of resources, reference texts, and useful tools to support researchers in their scientific writing and research endeavors at CIIC. You can access the repository's content directly through the provided links and files.
+<div align="center">
+  <img src="assets/Metodo_cientifico.png" width="700px"/>
+</div>
 
-## 📝 Usage
-Feel free to navigate through the repository and utilize the resources that suit your requirements. You are also invited to contribute to this repository by adding new resources, updating existing ones, or suggesting improvements. We appreciate your collaboration in making this repository a valuable and comprehensive resource for the CIIC research community.🤝
+Este repositório é uma coleção com curadoria de recursos, textos de referência e ferramentas úteis para apoiar os investigadores nos seus esforços de escrita científica e investigação no CIIC. Pode aceder ao conteúdo do repositório diretamente através das ligações e ficheiros fornecidos.
+
+## Utilização
+Navegue no repositório e utilize os recursos que se adequam às suas necessidades. Também está convidado a contribuir, adicionando novos recursos, atualizando os existentes ou sugerindo melhorias. Agradecemos a sua colaboração para fazer deste repositório um recurso valioso e abrangente para a comunidade de investigação do CIIC. 

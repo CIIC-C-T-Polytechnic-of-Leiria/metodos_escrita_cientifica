@@ -1,4 +1,4 @@
-# Escrever um artigo científico: um guia para principiantes
+# Escrever um artigo científico: um guia para principiantes (Baseado no artigo ...)
 
 ## Resumo
 

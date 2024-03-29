@@ -29,7 +29,7 @@ Este repositório é uma coleção de recursos, textos de referência e ferramen
 - [**Explainpaper**: Explicação de artigos científicos](https://www.explainpaper.com/)
 - [**Elicit:** The AI Research Assistant](https://elicit.ai/)
 
-### 🧠 Mapeamento de organização de Literatura
+### 🧠 Mapeamento de Organização de Literatura
 - [**Research Rabbit:** Ferramentas de pesquisa](https://researchrabbit.ai/)
 - [**Litmaps** - Ferramenta para descobrir e organizar literatura académica](https://app.litmaps.co/)
 

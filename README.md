@@ -12,7 +12,7 @@ Este repositório é uma coleção de recursos, textos de referência e ferramen
 
 ### 🔥 Destaques
 - ✨[**Guia de Apoio do I.P.Leiria**: apoio à pesquisa e elaboração de trabalhos académicos](https://www.ipleiria.pt/sdoc/guia/) 
-- ✨[**I.P.Leiria-Thesis**: Modelo LaTeX adaptado a teses, dissertações e relatórios de projectos - **José Areia (CIIC)**](https://github.com/joseareia/ipleiria-thesis)
+- ✨[**I.P.Leiria-Thesis**: Modelo LaTeX adaptado a teses, dissertações e relatórios de projectos](https://github.com/joseareia/ipleiria-thesis)
 
 ### 📚 Repositórios Científicos e de Formação
 - [**RCAAP** - Repositórios Científicos de Acesso Aberto de Portugal](https://www.rcaap.pt/)

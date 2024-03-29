@@ -3,7 +3,7 @@
 Bem-vindo ao Repositório de Escrita Científica e Métodos de Investigação! 🔬 
 
 <div align="center">
-  <img src="assets/Metodo_cientifico.png" width="700px"/>
+  <img src="assets/Metodo_cientifico.png" width="600px"/>
 </div>
 
 Este repositório é uma coleção de recursos, textos de referência e ferramentas úteis para apoiar os investigadores nos seus esforços de escrita científica e investigação no CIIC. Pode aceder ao conteúdo do repositório diretamente através das ligações e ficheiros fornecidos.
@@ -11,18 +11,17 @@ Este repositório é uma coleção de recursos, textos de referência e ferramen
 ## Links Úteis
 
 ### 🔥 Destaques
-- ✨[Guias de apoio à pesquisa e elaboração de trabalhos académicos do **I.P.Leiria**](https://www.ipleiria.pt/sdoc/guia/) 
-- ✨[Modelo LaTeX adaptado a teses, dissertações e relatórios de projectos **I.P.Leiria** - **José Areias (CIIC)**](https://github.com/joseareia/ipleiria-thesis)
+- ✨[**Guia de Apoio do I.P.Leiria**: apoio à pesquisa e elaboração de trabalhos académicos](https://www.ipleiria.pt/sdoc/guia/) 
+- ✨[**I.P.Leiria-Thesis**: Modelo LaTeX adaptado a teses, dissertações e relatórios de projectos - **José Areia (CIIC)**](https://github.com/joseareia/ipleiria-thesis)
 
 ### 📚 Repositórios Científicos e de Formação
-- [**Litmaps** - Uma plataforma de mapeamento de dados](https://litmaps.com/)
-- [**RCAAP - Repositórios Científicos de Acesso Aberto de Portugal**](https://www.rcaap.pt/)
-- [**IC-Online: Página principal**](https://ic-online.pt/)
-- [**Portal APPIA – Associação Portuguesa Para a Inteligência Artificial**](https://www.appia.pt/)
-- [**Google Académico - motor de busca virtual de literatura académica**](https://scholar.google.com/schhp?hl=pt-PT)
+- [**RCAAP** - Repositórios Científicos de Acesso Aberto de Portugal](https://www.rcaap.pt/)
+- [**IC-Online**: Página principal](https://ic-online.pt/)
+- [**Portal APPIA** – Associação Portuguesa Para a Inteligência Artificial](https://www.appia.pt/)
+- [**Google Académico** - Motor de busca virtual de literatura académica](https://scholar.google.com/schhp?hl=pt-PT)
 
 ### 📊 Ferramentas e Recursos de Estatística
-- [Choosing the Correct Statistical Test in SAS, Stata, SPSS and R](https://www.statisticshowto.com/)
+- [**Statisticshowto**: Choosing the Correct Statistical Test in SAS, Stata, SPSS and R](https://www.statisticshowto.com/)
 
 ### 🔍 Ferramentas de Sumarização e Interação com Artigos
 - [**Consensus** - Evidence-Based Answers, Faster](https://www.searchconsensus.com/)
@@ -40,7 +39,7 @@ Este repositório é uma coleção de recursos, textos de referência e ferramen
 
 ### 🌐 Fontes e Conjuntos de Dados
 - [**Papers with code!** - Artigos de aprendizagem automática, código fonte e conjuntos de dados](https://paperswithcode.com/)
-- [**Datasets - UC Irvine Machine Learning Repository**](https://archive.ics.uci.edu/ml/index.php)
+- [**UC Irvine Machine Learning Repository**: Conjuntos de Dados](https://archive.ics.uci.edu/ml/index.php)
 - [**Zenodo** - Research. Shared.](https://zenodo.org/)
 
 ## Utilização

@@ -11,17 +11,23 @@ Este repositório é uma coleção de recursos, textos de referência e ferramen
 ## Links Úteis
 
 ### 🔥 Destaques
-- ✨[**Guia de Apoio do I.P.Leiria**: apoio à pesquisa e elaboração de trabalhos académicos](https://www.ipleiria.pt/sdoc/guia/) 
+- ✨[**Guia de Apoio do I.P.Leiria**: Apoio à pesquisa e elaboração de trabalhos académicos](https://www.ipleiria.pt/sdoc/guia/) 
 - ✨[**I.P.Leiria-Thesis**: Modelo LaTeX adaptado a teses, dissertações e relatórios de projectos](https://github.com/joseareia/ipleiria-thesis)
+- ✨[**b-on**: Biblioteca que disponibiliza o acesso periódicos e ebooks das principais editoras científicas internacionais.](https://www.b-on.pt/)
 
-### 📚 Repositórios Científicos e de Formação
+### 📚 Repositórios Trabalhos Científicos e de Formação
+- ✨[**OpenAlex** - Repositório abrangente, de código aberto que informações extensas sobre publicações académicas](https://openalex.org/)
+- ✨[**arXiv** - Repositório de acesso aberto para preprints de artigos científicos em física, matemática, ciência da computação, etc.](https://arxiv.org/)
+- ✨[**IC-Online** - Repositório Institucional de Informação Científica do I.P.Leiria](https://ic-online.pt/)
 - [**RCAAP** - Repositórios Científicos de Acesso Aberto de Portugal](https://www.rcaap.pt/)
-- [**IC-Online**: Página principal](https://ic-online.pt/)
-- [**Portal APPIA** – Associação Portuguesa Para a Inteligência Artificial](https://www.appia.pt/)
-- [**Google Académico** - Motor de busca virtual de literatura académica](https://scholar.google.com/schhp?hl=pt-PT)
-
-### 📊 Ferramentas e Recursos de Estatística
-- [**Statisticshowto**: Choosing the Correct Statistical Test in SAS, Stata, SPSS and R](https://www.statisticshowto.com/)
+- [**Google Académico** - Motor de busca de literatura académica](https://scholar.google.com/schhp?hl=pt-PT)
+- [**Web of Science** - Revistas académicas, atas de conferências e literatura académica em várias disciplinas](https://www.webofscience.com/)
+- [**IEEE Xplore** - Focado em eng. elétrica, ciência da computação e eletrónica.](https://ieeexplore.ieee.org/)
+- [**ACM Digital Library** - Coleção de publicações da Association for Computing Machines](https://dl.acm.org/)
+- [**SpringerLink** - Literatura científica, técnica e médica,processamento de imagem/vídeo, visão computacional](https://link.springer.com/)
+- [**Scopus** - Base de dados de literatura revista por pares](https://www.scopus.com/)
+- [**PubMed** - Base de dados de acesso aberto de literatura biomédica](https://pubmed.ncbi.nlm.nih.gov/)
+- [**ScienceDirect** - Plataforma de acesso a literatura científica, técnica e médica](https://www.sciencedirect.com/)
 
 ### 🔍 Ferramentas de Sumarização e Interação com Artigos
 - [**Consensus** - Evidence-Based Answers, Faster](https://www.searchconsensus.com/)
@@ -41,6 +47,12 @@ Este repositório é uma coleção de recursos, textos de referência e ferramen
 - [**Papers with code!** - Artigos de aprendizagem automática, código fonte e conjuntos de dados](https://paperswithcode.com/)
 - [**UC Irvine Machine Learning Repository**: Conjuntos de Dados](https://archive.ics.uci.edu/ml/index.php)
 - [**Zenodo** - Research. Shared.](https://zenodo.org/)
+
+### 📊 Ferramentas e Recursos de Estatística
+- [**Statisticshowto**: Choosing the Correct Statistical Test in SAS, Stata, SPSS and R](https://www.statisticshowto.com/)
+
+### Outros
+- [**Portal APPIA** – Associação Portuguesa Para a Inteligência Artificial](https://www.appia.pt/)
 
 ## Utilização
 Navegue no repositório e utilize os recursos que se adequam às suas necessidades. Também está convidado a contribuir, adicionando novos recursos, atualizando os existentes ou sugerindo melhorias. Agradecemos a sua colaboração para fazer deste repositório um recurso valioso e abrangente para a comunidade de investigação do CIIC. 

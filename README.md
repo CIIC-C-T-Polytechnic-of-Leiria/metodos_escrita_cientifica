@@ -1,4 +1,4 @@
-# ✍️ Repositório de Escrita Científica e Métodos de Investigação
+# ✍️ Escrita Científica e Métodos de Investigação
 
 Bem-vindo ao Repositório de Escrita Científica e Métodos de Investigação! 🔬 
 

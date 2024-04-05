@@ -13,16 +13,16 @@ Este repositório é uma coleção de recursos, textos de referência e ferramen
 ### 🔥 Destaques
 - ✨[**Guia de Apoio do I.P.Leiria**: Apoio à pesquisa e elaboração de trabalhos académicos](https://www.ipleiria.pt/sdoc/guia/) 
 - ✨[**I.P.Leiria-Thesis**: Modelo LaTeX adaptado a teses, dissertações e relatórios de projectos](https://github.com/joseareia/ipleiria-thesis)
-- ✨[**b-on**: Biblioteca que disponibiliza o acesso periódicos e ebooks das principais editoras científicas internacionais.](https://www.b-on.pt/)
+- ✨[**b-on**: Biblioteca com a acesso periódicos e ebooks das principais editoras científicas internacionais.](https://www.b-on.pt/)
 
 ### 📚 Repositórios Trabalhos Científicos e de Formação
-- ✨[**OpenAlex** - Repositório abrangente, de código aberto que informações extensas sobre publicações académicas](https://openalex.org/)
-- ✨[**arXiv** - Repositório de acesso aberto para preprints de artigos científicos em física, matemática, ciência da computação, etc.](https://arxiv.org/)
+- ✨[**OpenAlex** - Repositório abrangente, de código aberto de ublicações académicas](https://openalex.org/)
+- ✨[**arXiv** - Repositório de acesso aberto para preprints de artigos científicos.](https://arxiv.org/)
 - ✨[**IC-Online** - Repositório Institucional de Informação Científica do I.P.Leiria](https://ic-online.pt/)
 - [**RCAAP** - Repositórios Científicos de Acesso Aberto de Portugal](https://www.rcaap.pt/)
 - [**Google Académico** - Motor de busca de literatura académica](https://scholar.google.com/schhp?hl=pt-PT)
-- [**Web of Science** - Revistas académicas, atas de conferências e literatura académica em várias disciplinas](https://www.webofscience.com/)
-- [**IEEE Xplore** - Focado em eng. elétrica, ciência da computação e eletrónica.](https://ieeexplore.ieee.org/)
+- [**Web of Science** - Revistas e literatura científica, atas de conferências em várias disciplinas](https://www.webofscience.com/)
+- [**IEEE Xplore** - Repositório focado em eng. elétrica, ciência da computação e eletrónica.](https://ieeexplore.ieee.org/)
 - [**ACM Digital Library** - Coleção de publicações da Association for Computing Machines](https://dl.acm.org/)
 - [**SpringerLink** - Literatura científica, técnica e médica,processamento de imagem/vídeo, visão computacional](https://link.springer.com/)
 - [**Scopus** - Base de dados de literatura revista por pares](https://www.scopus.com/)

@@ -13,16 +13,17 @@ Este repositório é uma coleção de recursos, textos de referência e ferramen
 ### 🔥 Destaques
 - ✨[**Guia de Apoio do I.P.Leiria**: Apoio à pesquisa e elaboração de trabalhos académicos](https://www.ipleiria.pt/sdoc/guia/) 
 - ✨[**I.P.Leiria-Thesis**: Modelo LaTeX adaptado a teses, dissertações e relatórios de projectos](https://github.com/joseareia/ipleiria-thesis)
-- ✨[**b-on**: Biblioteca com a acesso periódicos e ebooks das principais editoras científicas internacionais.](https://www.b-on.pt/)
+- ✨[**b-on**: Biblioteca com a acesso periódicos e ebooks das principais editoras científicas internacionais](https://www.b-on.pt/)
+- [**Tools for Academic Research** : Compilação de ferramentas e recursos para investigadores](https://tools.kausalflow.com/) 
 
 ### 📚 Repositórios Trabalhos Científicos e de Formação
 - ✨[**OpenAlex** - Repositório abrangente, de código aberto de ublicações académicas](https://openalex.org/)
-- ✨[**arXiv** - Repositório de acesso aberto para preprints de artigos científicos.](https://arxiv.org/)
+- ✨[**arXiv** - Repositório de acesso aberto para preprints de artigos científicos](https://arxiv.org/)
 - ✨[**IC-Online** - Repositório Institucional de Informação Científica do I.P.Leiria](https://ic-online.pt/)
 - [**RCAAP** - Repositórios Científicos de Acesso Aberto de Portugal](https://www.rcaap.pt/)
 - [**Google Académico** - Motor de busca de literatura académica](https://scholar.google.com/schhp?hl=pt-PT)
 - [**Web of Science** - Revistas e literatura científica, atas de conferências em várias disciplinas](https://www.webofscience.com/)
-- [**IEEE Xplore** - Repositório focado em eng. elétrica, ciência da computação e eletrónica.](https://ieeexplore.ieee.org/)
+- [**IEEE Xplore** - Repositório focado em eng. elétrica, ciência da computação e eletrónica](https://ieeexplore.ieee.org/)
 - [**ACM Digital Library** - Coleção de publicações da Association for Computing Machines](https://dl.acm.org/)
 - [**SpringerLink** - Literatura científica, técnica e médica,processamento de imagem/vídeo, visão computacional](https://link.springer.com/)
 - [**Scopus** - Base de dados de literatura revista por pares](https://www.scopus.com/)
@@ -30,6 +31,7 @@ Este repositório é uma coleção de recursos, textos de referência e ferramen
 - [**ScienceDirect** - Plataforma de acesso a literatura científica, técnica e médica](https://www.sciencedirect.com/)
 
 ### 🔍 Ferramentas de Sumarização e Interação com Artigos
+- [**Synthical** - Funcionalidades sumarização e explicação de artigos científicos abertos](https://synthical.com/)
 - [**Consensus** - Evidence-Based Answers, Faster](https://www.searchconsensus.com/)
 - [**Paper Digest**: Digestão de artigos](https://www.paperdigest.com/)
 - [**Explainpaper**: Explicação de artigos científicos](https://www.explainpaper.com/)
@@ -47,6 +49,7 @@ Este repositório é uma coleção de recursos, textos de referência e ferramen
 - [**Papers with code!** - Artigos de aprendizagem automática, código fonte e conjuntos de dados](https://paperswithcode.com/)
 - [**UC Irvine Machine Learning Repository**: Conjuntos de Dados](https://archive.ics.uci.edu/ml/index.php)
 - [**Zenodo** - Research. Shared.](https://zenodo.org/)
+- [**IEEE Dataport** - Repositório de  Conjuntos de dados da IEEE](https://ieee-dataport.org/datasets)
 
 ### 📊 Ferramentas e Recursos de Estatística
 - [**Statisticshowto**: Choosing the Correct Statistical Test in SAS, Stata, SPSS and R](https://www.statisticshowto.com/)

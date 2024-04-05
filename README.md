@@ -25,7 +25,7 @@ Este repositório é uma coleção de recursos, textos de referência e ferramen
 - [**Web of Science** - Revistas e literatura científica, atas de conferências em várias disciplinas](https://www.webofscience.com/)
 - [**IEEE Xplore** - Repositório focado em eng. elétrica, ciência da computação e eletrónica](https://ieeexplore.ieee.org/)
 - [**ACM Digital Library** - Coleção de publicações da Association for Computing Machines](https://dl.acm.org/)
-- [**SpringerLink** - Literatura científica, técnica e médica,processamento de imagem/vídeo, visão computacional](https://link.springer.com/)
+- [**SpringerLink** - Literatura científica, técnica e médica,processamento de imagem, visão computacional](https://link.springer.com/)
 - [**Scopus** - Base de dados de literatura revista por pares](https://www.scopus.com/)
 - [**PubMed** - Base de dados de acesso aberto de literatura biomédica](https://pubmed.ncbi.nlm.nih.gov/)
 - [**ScienceDirect** - Plataforma de acesso a literatura científica, técnica e médica](https://www.sciencedirect.com/)

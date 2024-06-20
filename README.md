@@ -45,6 +45,11 @@ Este repositório é uma coleção de recursos, textos de referência e ferramen
 - [**ZeroGPT** - Chat GPT, Open AI and AI text detector Free Tool](https://zerogpt.com/)
 - [**Edit Pad** - Verificação de Plágio.](https://www.editpad.org/tool/br/plagiarism-checker)
 
+### 📈 Ferramentas para Criação de Diagramas
+- ✨[**Google Drawings** - Diagramas e esquemas de forma simples e intuitiva](https://docs.google.com/drawings/)
+- [**Lucidchart** - Criação online de diagramas, fluxogramas, organogramas e mais](https://www.lucidchart.com/)
+- [**Miro** - Ferramenta colaborativa para diagramas técnicos entre outros](https://miro.com/pt/diagramas-tecnicos/) 
+
 ### 🌐 Fontes e Conjuntos de Dados
 - [**Papers with code!** - Artigos de aprendizagem automática, código fonte e conjuntos de dados](https://paperswithcode.com/)
 - [**UC Irvine Machine Learning Repository**: Conjuntos de Dados](https://archive.ics.uci.edu/ml/index.php)

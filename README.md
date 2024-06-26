@@ -3,7 +3,7 @@
 Bem-vindo ao Repositório de Escrita Científica e Métodos de Investigação! 🔬 
 
 <div align="center">
-  <img src="assets/Metodo_cientifico.png" width="650px"/>
+  <img src="assets/metodo_cientifico_v2.png" width="650px"/>
 </div>
 
 Este repositório é uma coleção de recursos, textos de referência e ferramentas úteis para apoiar os investigadores nos seus esforços de escrita científica e investigação no grupo de Comunicações e Telemática do CIIC.

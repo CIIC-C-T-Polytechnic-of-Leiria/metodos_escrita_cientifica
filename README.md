@@ -6,7 +6,7 @@ Bem-vindo ao Repositório de Escrita Científica e Métodos de Investigação! �
   <img src="assets/Metodo_cientifico.png" width="650px"/>
 </div>
 
-Este repositório é uma coleção de recursos, textos de referência e ferramentas úteis para apoiar os investigadores nos seus esforços de escrita científica e investigação no CIIC. Pode aceder ao conteúdo do repositório diretamente através das ligações e ficheiros fornecidos.
+Este repositório é uma coleção de recursos, textos de referência e ferramentas úteis para apoiar os investigadores nos seus esforços de escrita científica e investigação no grupo de Comunicações e Telemática do CIIC.
 
 ## Links Úteis
 
@@ -64,3 +64,13 @@ Este repositório é uma coleção de recursos, textos de referência e ferramen
 
 ## Utilização
 Navegue no repositório e utilize os recursos que se adequam às suas necessidades. Também está convidado a contribuir, adicionando novos recursos, atualizando os existentes ou sugerindo melhorias. Agradecemos a sua colaboração para fazer deste repositório um recurso valioso e abrangente para a comunidade de investigação do CIIC. 
+
+## Acerca do Grupo de Investigação
+
+Conheça melhor o nosso grupo de investigação em Comunicações e Telemática, além de toda a estrutura e atividades, projetos e recursos no site do CIIC.
+
+<center>
+    <a href="https://ciic.ipleiria.pt/">
+        <img src="assets/CIIC_CT_logo_v2.png" width="800px" alt="CIIC CT Logo"/>
+    </a>
+</center>

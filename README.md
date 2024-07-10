@@ -41,9 +41,15 @@ Este repositório é uma coleção de recursos, textos de referência e ferramen
 - [**Research Rabbit:** Ferramentas de pesquisa](https://researchrabbit.ai/)
 - [**Litmaps** - Ferramenta para descobrir e organizar literatura académica](https://app.litmaps.co/)
 
+### 📚 Gestores de referências bibliográficas
+- [**Zotero**: Zotero é uma ferramenta gratuita e de código aberto para gestão de referências bibliográficas](https://www.zotero.org/).
+- [**Mendeley**: Plataforma de gestão de referências](https://www.mendeley.com/).
+- [**EndNote**: Software pago de gestão de referências, criação de citações e gestão de documentos de pesquisa](https://endnote.com/).
+
 ### 🕵️ Ferramentas de Inspeção e Verificação de Texto
 - [**ZeroGPT** - Chat GPT, Open AI and AI text detector Free Tool](https://zerogpt.com/)
 - [**Edit Pad** - Verificação de Plágio.](https://www.editpad.org/tool/br/plagiarism-checker)
+
 
 ### 📈 Ferramentas para Criação de Diagramas
 - ✨[**Google Drawings** - Diagramas e esquemas de forma simples e intuitiva](https://docs.google.com/drawings/)
